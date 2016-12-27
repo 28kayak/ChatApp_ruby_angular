@@ -42,7 +42,7 @@ MIT
    [reference 1]: <https://www.youtube.com/watch?v=_VXgx5S-JmM>
    [reference 2]: <http://daringfireball.net/projects/markdown/>
    [markdown editor]: <http://dillinger.io/>
-   
+   [sublime] : <http://www.sublimetext.com/>
    
    [keymaster.js]: <https://github.com/madrobby/keymaster>
   
