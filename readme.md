@@ -37,12 +37,12 @@ MIT
 
 
    [Ruby]: <https://www.ruby-lang.org/ja/>
+   [sublime]: <http://www.sublimetext.com/>
    [Rails]: <http://rubyonrails.org/>
    [git repo]: <https://github.com/28kayak/ChatApp_ruby_angular.git>
    [reference 1]: <https://www.youtube.com/watch?v=_VXgx5S-JmM>
    [reference 2]: <http://daringfireball.net/projects/markdown/>
    [markdown editor]: <http://dillinger.io/>
-   [sublime] : <http://www.sublimetext.com/>
    
    [keymaster.js]: <https://github.com/madrobby/keymaster>
   
