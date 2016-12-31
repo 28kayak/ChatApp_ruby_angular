@@ -1,0 +1,10 @@
+.container 
+	=form_tag action: :login do 
+		%fildset 
+			.filed 
+				=label_tag :username, "Choose a username"
+				.control 
+				=text_field_tag 
+			.actions 
+			=submit_tag "Send"
+

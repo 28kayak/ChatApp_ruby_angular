@@ -1,0 +1,10 @@
+.container 
+	.messages 
+		%ul 
+			-@messages.each do |message|
+			%li=message.body
+	=form_for @new_messge do |f| 
+		%fieldset 
+			=f.label :body 
+			=f.text_field :body
+			=f.submit "Send" 
