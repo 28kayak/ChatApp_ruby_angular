@@ -6,8 +6,10 @@ class MessagesController < ApplicationController
 	end
 	
 	def index
-		@messaegs = Messages.all 
+		#@username = session[:username]
+		@messaegs = Message.all 
 		@new_message = Message.new(username: session[:username])
+	
 	end
 
 	def create 
