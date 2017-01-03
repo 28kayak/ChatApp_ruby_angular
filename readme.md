@@ -9,14 +9,15 @@ Sample code for chat application with Angular.js
 * [sublime] -- editor 
  
 ### Referecne
-* [reference 1] -youtube
-* [reference 2]
+* [reference 1] -Not including AJAX calls yet
+* [reference 2] -Adding AJAX calls
 
 ### Installation
 
 ```sh
 $ git clone https://github.com/28kayak/ChatApp_ruby_angular.git
 $ cd ChatApp_ruby_angular
+$ rails s
 ```
 
 ### Todos
@@ -41,7 +42,7 @@ MIT
    [Rails]: <http://rubyonrails.org/>
    [git repo]: <https://github.com/28kayak/ChatApp_ruby_angular.git>
    [reference 1]: <https://www.youtube.com/watch?v=_VXgx5S-JmM>
-   [reference 2]: <>
+   [reference 2]: <https://www.youtube.com/watch?v=IiZ5Y904c_8&list=PLZLIJjnAGQcZdzdFngpqce6JgzPkPgffX&index=17>
    [markdown editor]: <http://dillinger.io/>
    
    [keymaster.js]: <https://github.com/madrobby/keymaster>
