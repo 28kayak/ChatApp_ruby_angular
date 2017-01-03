@@ -11,6 +11,8 @@ Sample code for chat application with Angular.js
 ### Referecne
 * [reference 1] -Not including AJAX calls yet
 * [reference 2] -Adding AJAX calls
+* [reference 3] -Rails redirect_to details 
+
 
 ### Installation
 
@@ -43,6 +45,7 @@ MIT
    [git repo]: <https://github.com/28kayak/ChatApp_ruby_angular.git>
    [reference 1]: <https://www.youtube.com/watch?v=_VXgx5S-JmM>
    [reference 2]: <https://www.youtube.com/watch?v=IiZ5Y904c_8&list=PLZLIJjnAGQcZdzdFngpqce6JgzPkPgffX&index=17>
+   [reference 3]: <http://qiita.com/kanpe777/items/c5154b58c852855deefc>
    [markdown editor]: <http://dillinger.io/>
    
    [keymaster.js]: <https://github.com/madrobby/keymaster>
